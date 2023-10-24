@@ -1,4 +1,15 @@
-h1 {
-color: chocolate;
+*{
+    margin: 0;
+    padding: 0;
+}
 
+.desafio1 {
+    color: red;
+}
+
+#lista1 {
+    color: blue;
+}
+#lista2 {
+    color: yellow;
 }
